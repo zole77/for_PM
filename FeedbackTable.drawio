@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T02:18:55.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" version="16.5.3" etag="3OtysQEnxy6wCtkXrBtM" type="github"><diagram id="MgrPna4Zy4xrZ-WT6bT5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-09T02:35:15.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="IgMwCfHD-q_Dzj4B-KTb" version="16.5.3" type="github">
+  <diagram id="MgrPna4Zy4xrZ-WT6bT5" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-1" value="피드백 테이블" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-2" value="&lt;b&gt;시나리오1&lt;/b&gt;&lt;br&gt;&lt;br&gt;교사인 한빈이는 과제 피드백을 빠르게 끝내고 싶다." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="170" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-4" value="읽기 뷰어" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAF1_M5HX1hJdPE4f8s2-4" target="YAF1_M5HX1hJdPE4f8s2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="410" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-8" value="칭찬 피드백" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAF1_M5HX1hJdPE4f8s2-8" target="YAF1_M5HX1hJdPE4f8s2-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="460" as="sourcePoint" />
+            <mxPoint x="170" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-10" value="&lt;b&gt;시나리오2&lt;/b&gt;&lt;br&gt;&lt;br&gt;한빈이는 학생의 글을 읽고 싶다." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-11" value="&lt;b&gt;시나리오3&lt;/b&gt;&lt;br&gt;&lt;br&gt;한빈이는 학생의 글에 대해 피드백 하고 싶다." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="415" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-12" value="오류 피드백" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-13" value="기대 피드백" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-14" value="완료" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAF1_M5HX1hJdPE4f8s2-8" target="YAF1_M5HX1hJdPE4f8s2-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="470" as="sourcePoint" />
+            <mxPoint x="400" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAF1_M5HX1hJdPE4f8s2-12" target="YAF1_M5HX1hJdPE4f8s2-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="560" as="sourcePoint" />
+            <mxPoint x="620" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YAF1_M5HX1hJdPE4f8s2-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAF1_M5HX1hJdPE4f8s2-13" target="YAF1_M5HX1hJdPE4f8s2-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="590" as="sourcePoint" />
+            <mxPoint x="720" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
