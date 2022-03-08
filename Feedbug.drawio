@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T07:29:45.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="y69WGQ9IqNHJWjneu3mf" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T07:30:50.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="JwAf80SEGopraBqyAf0o" version="16.6.3" type="github">
   <diagram id="E9xSS5JAHT-Q8UjUCAS_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,9 +63,6 @@
         </mxCell>
         <mxCell id="aodUDUTSbuYzwURbkpAt-20" value="&lt;b&gt;시나리오 3&lt;/b&gt;&lt;br&gt;기영이는 학생의 글에 대해 피드백 하고 싶다." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="370" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aodUDUTSbuYzwURbkpAt-21" value="피드백 작성 완료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aodUDUTSbuYzwURbkpAt-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
