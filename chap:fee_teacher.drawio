@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T05:34:22.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.0.8" etag="lbR_7llJ6GCqHNNCPHfP" type="github"><diagram id="hG2alSKPjl97meyPDZ2G">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-24T05:43:11.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ajADUtEqEC1a-8nm2jv-" version="18.0.8" type="github">
+  <diagram id="hG2alSKPjl97meyPDZ2G" name="Page-1">
+    <mxGraphModel dx="544" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-1" target="XYP7vrNjexjmMJYze1Bl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-1" value="러닝 스페이스 화면" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-2" target="XYP7vrNjexjmMJYze1Bl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-2" value="[챕터]에서&lt;br&gt;보낼 챕터 만들기" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-4" value="[챕터]에서 챕터 찾기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-6" target="XYP7vrNjexjmMJYze1Bl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-6" value="[피드백]화면" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-8" value="[피드백 전송]" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-10" value="피드버그 엔진" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-12" value="[커뮤니티] 화면" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;시나리오 1&lt;/b&gt;&lt;br&gt;&lt;br&gt;선생님은 학생들과 온라인 수업 도구를 활용하여 수업을 진행하고 싶다.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;시나리오 2&lt;/b&gt;&lt;br&gt;&lt;br&gt;선생님은 학생들에게 과제를 만들어서 전송하고 싶다.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-1" target="XYP7vrNjexjmMJYze1Bl-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-2" target="XYP7vrNjexjmMJYze1Bl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-6" target="XYP7vrNjexjmMJYze1Bl-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;시나리오 3&lt;/b&gt;&lt;br&gt;&lt;br&gt;선생님은 학생들이 제출한 과제를 피드백 하고 싶다.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-20" value="[분석] 화면" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-22" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;시나리오 4&lt;/b&gt;&lt;br&gt;&lt;br&gt;선생님은 피드백한 내용을 학생들에게 전송하고 싶다.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYP7vrNjexjmMJYze1Bl-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XYP7vrNjexjmMJYze1Bl-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="550" as="sourcePoint" />
+            <mxPoint x="720" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
