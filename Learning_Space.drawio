@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T05:07:41.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="o6N-bdh-JRAy9DjqVWdx" type="github"><diagram id="YosmB1-X--VwOtEI4Pyt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-25T05:13:41.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="E0RVHfDxz227-StR226e" version="18.1.1" type="github">
+  <diagram id="YosmB1-X--VwOtEI4Pyt" name="Page-1">
+    <mxGraphModel dx="1420" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="42XI4c9zlmvffQtfvZbq-1" value="여러 개의 &lt;br&gt;러닝 스페이스" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42XI4c9zlmvffQtfvZbq-2" value="러닝 스페이스 목록" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42XI4c9zlmvffQtfvZbq-6" value="러닝 스페이스&lt;br&gt;상태 확인" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42XI4c9zlmvffQtfvZbq-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="42XI4c9zlmvffQtfvZbq-2" target="42XI4c9zlmvffQtfvZbq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42XI4c9zlmvffQtfvZbq-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="42XI4c9zlmvffQtfvZbq-2" target="42XI4c9zlmvffQtfvZbq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42XI4c9zlmvffQtfvZbq-10" value="&lt;b&gt;시나리오1&lt;/b&gt;&lt;br&gt;&lt;br&gt;교사인 은지는 학생 관리를 여러 개의 관리 범주로 나눠서 관리해야 한다&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="195" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="42XI4c9zlmvffQtfvZbq-11" value="&lt;b&gt;시나리오1&lt;/b&gt;&lt;br&gt;&lt;br&gt;은지는 러닝 스페이스 목록에서 발행한 챕터의 진행 상황을 확인하고 싶다" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="335" width="210" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
