@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T05:47:16.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="jstW9Ets3fFO61tr2Nki" type="github"><diagram id="05ONNmIDQCu9p-sWG3_U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-21T05:55:56.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-Sj8j5bHceLYUwazOm52" version="20.0.1" type="github">
+  <diagram id="05ONNmIDQCu9p-sWG3_U" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iGO7LqbquMreFDHsHptS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iGO7LqbquMreFDHsHptS-1" target="iGO7LqbquMreFDHsHptS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGO7LqbquMreFDHsHptS-1" value="러닝 스페이스&lt;br&gt;대시보드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGO7LqbquMreFDHsHptS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iGO7LqbquMreFDHsHptS-2" target="iGO7LqbquMreFDHsHptS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGO7LqbquMreFDHsHptS-2" value="학생 목록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iGO7LqbquMreFDHsHptS-5" value="&lt;h1&gt;시나리오 1&lt;/h1&gt;&lt;p&gt;교사인 은지는 대시보드에서 러닝스페이스 관련 정보를 얻고 싶다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iGO7LqbquMreFDHsHptS-6" value="&lt;h1&gt;시나리오 2&lt;/h1&gt;&lt;p&gt;은지는 학생들의 접속 상태를 확인하고 싶다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iGO7LqbquMreFDHsHptS-7" value="접속 상태&lt;br&gt;또는&lt;br&gt;미접속 시간" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
