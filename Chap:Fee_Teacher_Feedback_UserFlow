@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T05:48:15.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="bkABgWhUzNhgVsxyu6ds" type="github"><diagram id="mM8n6ec6ONXceDi9ei-b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-11T08:12:31.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vNFyHqL1txV9zhwlyu6I" version="20.0.4" type="github">
+  <diagram id="mM8n6ec6ONXceDi9ei-b" name="Page-1">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-1" value="러닝 스페이스&lt;br&gt;대시보드" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-2" value="&lt;h1&gt;시나리오1&lt;/h1&gt;&lt;p&gt;한 초등학교 담임 교사인 은지는 학생들에게 과제를 내줘야 한다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="150" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-5" target="q7XVLIkChlI-3xh2kGYz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-5" value="새로운 챕터 보내기" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-9" target="q7XVLIkChlI-3xh2kGYz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-9" target="q7XVLIkChlI-3xh2kGYz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-9" value="피드백 카운트 뱃지" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-11" value="&lt;h1&gt;시나리오2&lt;/h1&gt;&lt;p&gt;은지는 빠르게 피드백을 확인하고 진행하고 싶다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="290" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-12" target="q7XVLIkChlI-3xh2kGYz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-12" value="피드백 화면" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-14" target="q7XVLIkChlI-3xh2kGYz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-14" value="피드버블 테이블" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-16" value="&lt;h1&gt;시나리오3&lt;/h1&gt;&lt;p&gt;은지는 다양한 패턴의 피드버블을 활용하고 싶다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="430" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="q7XVLIkChlI-3xh2kGYz-17" target="q7XVLIkChlI-3xh2kGYz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-17" value="새로고침" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-19" value="완료" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q7XVLIkChlI-3xh2kGYz-21" value="완료" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
